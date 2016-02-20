@@ -1,0 +1,28 @@
+input {
+    width: 50%;
+}
+body {
+    /*border: 1px solid blue;*/
+}
+.container {
+
+    /*border:1px solid green;*/
+    margin:auto;
+    width: 100%;
+}
+form {
+    /*border: 1px solid red;*/
+    display: block;
+}
+button{
+    float:right;
+}
+
+header {
+    font-size: 50px;
+    /*text-align: center;*/
+}
+header p ,#welcome{
+    text-align: center ;
+    margin:30px auto;
+}
